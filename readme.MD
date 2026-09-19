@@ -2,6 +2,7 @@
 
 * [Spring 정리](https://github.com/camel-man-ims/spring-collection)
 * [알고리즘 정리](https://github.com/camel-man-ims/algorithm-collection)
+* [JVM 정리](https://github.com/camel-man-ims/jvm-collection)
 * [tistory](https://camel-man-ims.tistory.com/)
 
 # 책 정리
